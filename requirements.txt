@@ -20,7 +20,7 @@ gunicorn==20.1.0
 h5py==3.7.0
 html5lib==0.9999999
 idna==3.3
-intel_tensorflow==2.9.1
+intel_tensorflow==2.11.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
 keras==2.11.0
